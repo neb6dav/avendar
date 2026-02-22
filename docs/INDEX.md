@@ -26,8 +26,20 @@ Avendar: The Crucible of Legends is a text-based Multi-User Dungeon (MUD) founde
 | [combat.md](mechanics/combat.md) | Combat mechanics, PK system, death, equipment |
 | [alignment_and_ethos.md](mechanics/alignment_and_ethos.md) | Good/Evil and Lawful/Chaotic axes, restrictions, mechanics |
 | [character_creation.md](mechanics/character_creation.md) | Stats, race/class selection, lifespan |
+| [traits.md](mechanics/traits.md) | Character traits: background, magic, physical, and general |
 | [houses_and_factions.md](mechanics/houses_and_factions.md) | Great Houses, Stones of Power, religious factions |
 | [roleplay.md](mechanics/roleplay.md) | Roleplay requirements, engagement, storylines, communication |
+
+## Advanced Systems
+
+| File | Contents |
+|------|----------|
+| [ley_lines_and_weave.md](mechanics/ley_lines_and_weave.md) | The magical Weave, ley lines, founts, and attunement |
+| [drakes.md](mechanics/drakes.md) | Stone drakes: awakening, stone types, ages, and special abilities |
+| [runes.md](mechanics/runes.md) | Rune carving, invocation, attunement costs — Earth scholar system |
+| [forge.md](mechanics/forge.md) | Weapon forging: types, traits, specials, and naming |
+| [alchemy.md](mechanics/alchemy.md) | Alchemical crafting: mix/brew/make, platonic biases, sphere spells |
+| [psionics.md](mechanics/psionics.md) | Psionicist foci: mental powers, focus slots, and abilities |
 
 ---
 
